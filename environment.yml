@@ -1,0 +1,16 @@
+name: t20-fatiando-lightning
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python==3.7
+  - pip
+  - boule==0.1.1
+  - harmonica==0.1.0
+  - verde==1.5.0
+  - pooch>=1.1.0
+  - pykdtree
+  - numba
+  - matplotlib
+  - pyproj
+  - jupyterlab
