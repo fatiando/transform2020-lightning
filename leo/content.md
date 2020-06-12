@@ -39,7 +39,7 @@
 
 ---
 
-<!-- .slide: data-background-image="img/fatiando-first-commit.jpg" data-background-size="cover" -->
+<!-- .slide: data-background-image="img/fatiando-first-commit.svg" data-background-size="contain" data-background-repeat="no-repeat" -->
 
 <div class="r-stretch bottom-right bottom-dark">
 
@@ -50,7 +50,7 @@ Started in 2010 as a single `fatiando` package (from commit
 
 ---
 
-<!-- .slide: data-background-image="img/fatiando-first-gallery.jpg" data-background-size="cover" -->
+<!-- .slide: data-background-image="img/fatiando-first-gallery.jpg" data-background-size="contain" data-background-repeat="no-repeat" -->
 
 <div class="r-stretch bottom-right bottom-dark">
 
@@ -60,7 +60,7 @@ First website and example gallery from 2011. (Google+ &#x1f602;)
 
 ---
 
-<!-- .slide: data-background-image="img/fatiando-v0.5.jpg" data-background-size="cover" -->
+<!-- .slide: data-background-image="img/fatiando-v0.5.jpg" data-background-size="contain" data-background-repeat="no-repeat" -->
 
 <div class="r-stretch bottom-right bottom-dark">
 
@@ -79,12 +79,13 @@ Evolved over 5 years into something useful
 </div>
 <div class="col-small">
 
+<div style="margin-top: 30%;">
+
 ## Used to build weird inversion methods
 
-Became the basis for a lot of **research** at my former lab
-([PINGA Lab](https://www.pinga-lab.org/))
+</div>
 
-<div class="bottom-right" style="margin-top: 10%">
+<div class="bottom-right" style="margin-top: 30%">
 
 [Uieda and Barbosa (2012)](https://doi.org/10.1190/geo2011-0388.1)
 
@@ -93,10 +94,9 @@ Became the basis for a lot of **research** at my former lab
 </div>
 </div>
 
-
 ---
 
-<!-- .slide: data-background-video="video/seismic-waves-demo.mp4" data-background-size="cover" -->
+<!-- .slide: data-background-video="video/seismic-waves-demo.mp4" data-background-size="contain" data-background-repeat="no-repeat" -->
 
 <div class="r-stretch bottom-right bottom-dark">
 
@@ -107,7 +107,7 @@ Used extensively in my **teaching** at [UERJ](https://www.uerj.br/) between
 
 ---
 
-<!-- .slide: data-background-image="img/fatiando-tools.svg" data-background-size="cover" -->
+<!-- .slide: data-background-image="img/fatiando-tools.svg" data-background-size="contain" data-background-repeat="no-repeat" -->
 
 <div class="r-stretch bottom-right">
 
@@ -133,7 +133,6 @@ breaking into separate tools.
 ## Breath of fresh air
 
 * Collaborating since 2015
-* Inspired writing down my process
 * Leading some of our new packages (Harmonica and RockHound)
 * Main force behind many new developments
 
@@ -142,16 +141,61 @@ breaking into separate tools.
 
 ---
 
-Holding new tools to a high standard (test, documentation, style).
+<div class="container">
+<div class="col-left">
 
-Focus on expanding the community (screenshot of contributing repo and our
-guidelines).
-Community calls.
+<img src="img/fatiando-pr-checks.jpg" style="width: 100%;">
+
+</div>
+<div class="col-right">
+
+## Higher standards
+
+* Documentation first
+* Full tests (now, not later)
+* Semantic versioning
+* Automate everything
+* Code review
+
+</div>
+</div>
 
 ---
 
-Call to action. End with first slide maybe.
-Point people to our Slack.
+<div class="container">
+<div class="col-left">
+
+<img src="img/fatiando-contributing.jpg" style="width: 100%;">
+
+</div>
+<div class="col-right">
+
+## Community
+
+* Slack: [contact.fatiando.org](http://contact.fatiando.org)
+* Code of Conduct
+* Contributing Guide
+* Maintenance Guide
+* **Authorship Guidelines**
+* Mentor new contributors
+
+</div>
+</div>
+
+---
+
+<!-- .slide: data-background-image="img/fatiando-community-calls.jpg" data-background-size="contain" data-background-repeat="no-repeat" -->
+
+<div class="r-stretch bottom-right bottom-dark">
+
+Started regular community calls.
+**Join us next Friday (19 June)**
+
+</div>
+
+---
+
+<!-- .slide: data-background-image="img/fatiando-contact.svg" data-background-size="contain" data-background-repeat="no-repeat" -->
 
 ---
 
